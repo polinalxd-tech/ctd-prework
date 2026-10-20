@@ -1,0 +1,16 @@
+Name,Polina Bolivar,,,,,,,
+Description,"This data shows the average high and low temperatures in each city, as well as the highest and lowest average yearly temperatures across all the cities. Based on this data, we can draw conclusions about each city's typical temperatures and compare how warm or cool each city tends to be. For example, Phoenix, AZ is the hottest city among the three in our list. One more thing I noticed is that Column F lists the average precipitation. This can give us some additional insight into each city's climate. ",,,,,,,
+,,,,,,,,
+City,Month,Season,Average High (F),Average Low (F),Average Precip. (in),,City,Year Average High
+"Raleigh, NC",January,Winter,50,30,3.4,,"Raleigh, NC",70.5
+"Raleigh, NC",April,Spring,70,47,3.2,,"Seattle, WA",60.25
+"Raleigh, NC",July,Summer,90,69,4.5,,"Phoenix, AZ",88.25
+"Raleigh, NC",October,Fall,72,49,3.1,,,
+"Seattle, WA",January,Winter,47,36,5.6,,,
+"Seattle, WA",April,Spring,58,43,3.5,,Highest Year Average High,
+"Seattle, WA",July,Summer,77,57,0.6,,88.25,
+"Seattle, WA",October,Fall,59,45,3.5,,Lowest Year Average High,
+"Phoenix, AZ",January,Winter,67,44,0.8,,60.25,
+"Phoenix, AZ",April,Spring,88,61,0.3,,,
+"Phoenix, AZ",July,Summer,106,83,1.0,,,
+"Phoenix, AZ",October,Fall,92,65,0.6,,,
